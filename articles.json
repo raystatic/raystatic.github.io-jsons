@@ -1,0 +1,11 @@
+[
+    {
+        "date":"JULY 05, 2020",
+        "title":"Why Emitting State from Repository is an Anti-Pattern",
+        "description":"In this post, as the title suggests, I'll discuss why one shouldn't emit View States (or as some people prefer to call it Resource nowadays) from Repository, and why is it Anti-Pattern IMO. While discussing that, this post will also",
+        "tags": [
+            "AndroidDev","Android","jetpack","optimisation","Viewmodel"
+        ],
+        "image":"https://s3-us-east-2.amazonaws.com/rivu.dev/2020/07/ViewStateAndViewModel.jpg"
+    }
+]
